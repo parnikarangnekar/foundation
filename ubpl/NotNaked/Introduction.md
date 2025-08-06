@@ -1,7 +1,7 @@
 # **NotNaked: Revolutionizing Fashion Retail with Omnichannel Excellence**
 
 ## **Introduction**
-NotNaked is a dynamic fashion brand catering to Generation Z and Generation Alpha in America. As a digital-first company, NotNaked blends cutting-edge technology with physical retail experiences to meet the evolving needs of its tech-savvy customer base. With strategically located retail stores and a robust online presence, the brand offers a seamless [omnichannel](https://www.hotwax.co/blog/what-is-omnichannel-fulfillment-how-to-guide-shopify-x-hotwax-x-netsuite) shopping experience that prioritizes speed, convenience, and customer satisfaction.
+NotNaked is a dynamic fashion brand catering to Generation Z and Generation Alpha in America. As a digital-first company, NotNaked blends cutting-edge technology with physical retail experiences to meet the evolving needs of its tech-savvy customer base. With strategically located retail stores and a robust online presence, the brand offers a seamless [omnichannel](https://www.hotwax.co/blog/what-is-omnichannel-order-management-and-why-does-it-exist) shopping experience that prioritizes speed, convenience, and customer satisfaction.
 
 ## **Retail Presence**
 NotNaked operates retail locations in prominent outdoor shopping areas across several key cities. These stores function not only as shopping destinations but also as fulfillment centers for online orders, enhancing the brand’s omnichannel capabilities.
@@ -55,7 +55,7 @@ NotNaked’s curated product catalog is designed to meet the diverse needs of it
 * **Digital Products:** Digital Gift Cards.
 
 ## **Omnichannel Capabilities**
-NotNaked’s omnichannel strategy is centered around providing a unified and flexible shopping experience. This strategy is rooted in the principles of modern [**Omnichannel Order Management**](https://www.hotwax.co/blog/what-is-omnichannel-order-management-and-why-does-it-exist), which consolidates inventory, orders, and fulfillment across every channel into a seamless customer journey.
+NotNaked’s omnichannel strategy is centered around providing a unified and flexible shopping experience. This strategy is rooted in the principles of modern **Omnichannel Order Management**, which consolidates inventory, orders, and fulfillment across every channel into a seamless customer journey.
 
 [Capabilities of OMS](https://www.hotwax.co/blog/15-critical-capabilities-of-omnichannel-order-management-solution)
 
