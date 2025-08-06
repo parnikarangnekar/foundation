@@ -65,9 +65,11 @@ The following sections detail the key retail systems that enable omnichannel ret
 https://www.hotwax.co/blog/top-10-retail-systems-for-omnichannel-retailers
 
 NotNaked’s advanced operations are powered by an integrated technology stack:
-* **Shopify:** The primary e-commerce platform facilitating online sales and customer interactions.  
+* **Shopify:** The primary e-commerce platform facilitating online sales and customer interactions.
+* **Shopify POS**: A point-of-sale system used in NotNaked’s physical retail stores to process in-store transactions, manage inventory, and unify customer data across online and offline touchpoints.
 * **HotWax Commerce (OMS):** The Order Management System that orchestrates order processing, inventory management, and fulfillment across all channels.  
 * **NetSuite:** An ERP solution that handles financials, supply chain management, and back-office operations.  
 * **ShipHawk:** A shipping software solution that automates shipping processes, integrates with carriers, and provides real-time shipping rates and tracking.  
 * **Loop Returns:** A returns management platform that simplifies the returns and exchanges process, enhancing customer experience.
 
+For managing unified orders, inventory, and fulfillment across all channels, NotNaked requires an [Enterprise-Level Application](https://www.ibm.com/think/topics/enterprise-applications). They selected [**HotWax Commerce**](https://www.hotwax.co/) — an **omnichannel Order Management System (OMS)** — as the backbone of their retail operations, enabling seamless integration across e-commerce, stores, warehouses, and logistics.
